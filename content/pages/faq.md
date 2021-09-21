@@ -55,7 +55,8 @@ sections:
     address: "22 St John Street, Newtown, NSW \_Australia, 2000"
     phone: 61-98-555-01120
     email: geeks@snipcart.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: >-
+      https://www.google.com/maps/place/St+John+St,+Newtown+NSW+2042/@-33.902153,151.1769902,18.18z/data=!4m5!3m4!1s0x6b12b03621817437:0x194890c24df66559!8m2!3d-33.9018218!4d151.1794329
 seo:
   title: FAQ
   description: This is the faq page
